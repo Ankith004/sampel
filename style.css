@@ -1,0 +1,225 @@
+ @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(back.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+html{
+    scroll-behavior: smooth ;
+}
+nav div{
+    display: inline-block;
+    width: 49%;
+    background-color:#f9b572;
+}
+.top{
+    background-color:#f9b572;
+    padding: 10px;
+}
+nav div h1{
+    margin-left: 50px;
+    background-color: #f9b572;
+    font-family: 'Agbalumo';
+    font-weight: 300; 
+      
+}
+nav div a{
+    margin-left: 45px;
+    background-color:#f9b572;
+
+}
+.second_con{
+    text-align: end;
+    background-color: aqua;
+}
+.first{
+    padding: 0px;
+    color: chartreuse;
+    background-color: yellow;
+
+}
+.third{
+    padding: 8px;
+    color: black;
+    background-color: blue;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+nav div a:hover{
+    opacity: 0.7;
+    color: red;
+    text-decoration: underline;
+}
+nav div i{
+    margin-right: 10px;
+}
+.main{
+    width: 85%;
+    padding: 50px;
+    margin: 50px;
+    
+    padding-left: 60px;
+   
+}
+.main1{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+.main1 img{
+    width: 300px;
+    height: 300px;
+}
+.main div{
+    display: inline-block;
+    width: 45%;
+}
+.main1 img{ 
+    border-radius: 70%;
+    position: relative;bottom: 60px;
+}
+.main2{
+    
+    margin-left: 49px;
+    position: relative;
+    bottom: 50px;
+   
+}
+.main2 h1{
+    text-decoration-color: aqua;
+
+}
+.fg{
+    border-radius:50px;
+    border:none;
+    background-color: rebeccapurple; 
+    padding: 10px;
+    opacity: 80%;
+    position: relative;top: 80px;
+    
+    
+}
+div button:hover { 
+    cursor: pointer;
+
+
+}
+.information{
+    display: inline-block;
+    margin-left: 50px;
+    bottom: 60px;
+}
+
+
+.info{
+    background-color: #F7EFE5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+    font-family: 'Black Ops One';
+    position: relative;
+    top: 40px;
+}
+.about{
+    padding-left:10px ;
+}
+.education{
+    margin-left: 60px;
+}
+.college{
+    margin-left: 60px;
+}
+.info_school{
+    margin-left: 60px;
+}
+.lang{
+    margin-left: 60px;
+}
+h2{
+    text-align: center;
+    
+}
+.zz{
+    margin-left: 10px;
+}
+.skills{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.scard{
+    padding-top: 40px;
+    display: inline-block;
+    width: 8%;
+    text-align: center;
+    background-color: rgb(244, 225, 202);
+    border-radius: 10px;
+    margin-right: 40px;
+}
+.scard:hover{
+    scale: 125%;
+    background-color: #dd7207;
+}
+.pro1{
+    display: inline-block;
+    background-color: bisque;
+    border-radius:6px ;
+    width: 300px;
+    text-align: center;
+
+}
+.pro2{
+    display: inline-block;
+  
+    position: relative;
+    left: 150px;
+    background-color: bisque;
+    border-radius: 6px;
+    width: 300px;
+    text-align: center;
+
+}
+.pro1 img{
+    width: 180px;
+    position: relative;
+    left: 15px;
+}
+.pro2 img{
+    
+    width: 180px;
+    position: relative;
+    left: 15px;
+}
+.project{
+    padding-top: 20px;
+}
+.io{
+ text-align: left;
+}
+footer{
+ text-align: center;
+
+}
+.pro1:hover{
+    scale: 125%;
+    background-color: #dd7207;
+}
+.pro2:hover{
+    scale: 125%;
+    background-color: #dd7207;
+}
+.foot{
+    padding-top: 10px;
+}
+.me{
+    text-decoration: #F7EFE5;
+}
+.contact{
+    padding-top: 30px;
+}
